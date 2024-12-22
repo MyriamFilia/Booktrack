@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Retour à la page précédente -->
+    <item
+        android:id="@+id/menu_back"
+        android:icon="@drawable/ic_back"
+        android:titleTextColor="@color/black"
+        android:iconTint="@color/black" />
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="Accueil"
+        android:icon="@drawable/ic_home"
+        android:titleTextColor="@color/black"
+        android:iconTint="@color/black" />
+
+    <item
+        android:id="@+id/menu_library"
+        android:title="Bibliothèque"
+        android:icon="@drawable/ic_library"
+        android:titleTextColor="@color/black"
+        android:iconTint="@color/black" />
+
+    <item
+        android:id="@+id/menu_search_book"
+        android:title="Rechercher un livre"
+        android:icon="@drawable/ic_search"
+        android:titleTextColor="@color/black"
+        android:iconTint="@color/black" />
+
+    <item
+        android:id="@+id/menu_settings"
+        android:title="Paramètres"
+        android:icon="@drawable/ic_settings"
+        android:titleTextColor="@color/black"
+        android:iconTint="@color/black" />
+</menu>
+

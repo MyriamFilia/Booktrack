@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BookTrack</string>
+    <string name="logo" />
+    <string name="menu" />
+    <string name="navigation_drawer_open">Ouvrir le menu</string>
+    <string name="navigation_drawer_close">Fermer le menu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="book_thumbnail">Couverture</string>
+    <string name="plus">+</string>
+    <string name="objectif_mensuel">Objectif Mensuel</string>
+    <string name="objectif_annuel">Objectif Annuel</string>
+    <string name="sauvegarder">Sauvegarder</string>
+    <string name="entrez_le_titre_l_auteur_ou_l_isbn">Entrez le titre, l\'auteur ou l\'ISBN</string>
+    <string name="rechercher">Rechercher</string>
+    <string name="r_sultats_de_ma_recherche">Résultats de ma recherche</string>
+    <string name="recherche_de_livres">Recherche de livres</string>
+</resources>

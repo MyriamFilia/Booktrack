@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_homeFragment_to_libraryFragment" type="id" />
+    <item name="action_homeFragment_to_statsFragment" type="id" />
+    <item name="action_homeFragment_to_addBookFragment" type="id" />
+    <item name="objectives_card" type="id" />
+    <item name="statistics_card" type="id" />
+    <item name="search_card" type="id" />
+</resources>
